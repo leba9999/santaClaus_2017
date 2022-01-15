@@ -3,8 +3,12 @@ Santa Claus pelissä pääset olemaan joulupukki, joka on hukannut lentomatkalla
 Löydä kaikki lahjapaketit ennen joulua, niin ansaitset täydet pisteet. Saatat hyvin pian huomata, ettei paikalliset aikuiset joulupukista tykkää, joten vältä heihin ja ansoihin törmäämistä.
 
 ## Projektista
-Santa Claus peli on lähes ensimmäisiä harraste projektejani, joten koodi on mitä on ja kaikki on vähän miten sattuu. 
+Santa Claus peli on lähes ensimmäisiä harraste projektejani, joten koodi on mitä on ja kaikki on vähän miten sattuu.
 Olen kuitenkin erittäin tyytyväinen projektiin vielä tänä päivänä, koska sain tehtyä silloin yllättävän hyvin toimivan ja lähes "valmiin" pelin.
+
+
+Projektin aloitus nimi oli vitsikkäästi CyperClaus, koska kaverini muokkasi edellisenä vuonna 2016 tehdyn Santa Claus pelin pelattavan hahmon kyborgiksi,
+joten nimi viitteitä CyperClaus:iin saattaa esiintyä kansioiden nimissä, sun muualla.
 
 ## Teknologia
 #### Käytetyt kirjastot:
@@ -30,3 +34,11 @@ lataa [tästä](https://users.metropolia.fi/~leevikos/downloads/SantaClaus%20-%2
 
 
 Pura zip ja varmista että koneessa on Microsoft Visual C++ 2015-2019 Redistributable laajennukset. Ohjelma ei asenna itseään ja ei asenna mitään, eikä sen pitäisi pyytää.
+
+
+## Tekijät:
+Ohjelmointi, grafiikka ja suunnitelu
+- [Leevi Koskinen](https://github.com/leba9999)
+
+Grafiikka ja taso suunnitelu/kehitys
+- Mikael Ronkainen

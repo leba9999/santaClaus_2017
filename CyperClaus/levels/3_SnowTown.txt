@@ -1,0 +1,2 @@
+path: maps\level_3.txt
+title: Level:SnowTown

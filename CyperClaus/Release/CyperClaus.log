@@ -1,0 +1,9 @@
+﻿  C_Player.cpp
+C_Player.cpp(13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C_Player.cpp(32): warning C4018: '>=': signed/unsigned mismatch
+  Generating code
+  3 of 716 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CyperClaus.vcxproj -> C:\Users\Leba\Documents\Visual Studio 2017\Projects\CyperClaus\Release\CyperClaus.exe

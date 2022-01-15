@@ -1,0 +1,295 @@
+player: Resources/SantaClaus.png position: 350 -600
+scoresound: Resources/Papper.ogg
+scoresound2: Resources/Plik.ogg
+background: color: 10 10 25
+
+
+grounds: 75
+ground_0: color: 255 255 255 255 size: 500 320 position: -100 -600 none
+ground_1: color: 255 255 255 255 size: 515 5 position: 400 -580 none
+ground_2: color: 255 255 255 255 size: 800 500 position: 400 -575 none
+ground_3: color: 200 200 200 255 size: 1300 50 position: 910 -750 none
+ground_4: color: 200 200 200 255 size: 200 600 position: 1600 -570 none
+ground_5: color: 200 200 200 255 size: 700 20 position: 900 -575 none
+ground_6: color: 200 200 200 255 size: 700 20 position: 925 -555 none
+ground_7: color: 200 200 200 255 size: 700 40 position: 950 -535 none
+ground_8: color: 200 200 200 255 size: 700 20 position: 945 -495 none
+ground_9: color: 200 200 200 255 size: 700 20 position: 965 -475 none
+ground_10: color: 200 200 200 255 size: 700 20 position: 980 -455 none
+ground_11: color: 200 200 200 255 size: 700 20 position: 1000-435 none
+ground_12: color: 200 200 200 255 size: 700 600 position: 1025 -415 none
+ground_13: color: 200 200 200 255 size: 300 300 position: 1900 -570 none
+ground_14: color: 200 200 200 255 size: 700 1100 position: 1500 -150 none
+ground_15: color: 200 200 200 255 size: 700 400 position: 2200 -90 none
+ground_16: color: 200 200 200 255 size: 2000 300 position: 2200 -600 none
+ground_17: color: 200 200 200 255 size: 3100 350 position: 2000 -900 none
+ground_18: color: 200 200 200 255 size: 900 400 position: 2900 -60 none
+ground_19: color: 200 200 200 255 size: 80 10 position: 3230 -120 none
+ground_20: color: 200 200 200 255 size: 80 10 position: 3400 -160 none
+ground_21: color: 200 200 200 255 size: 80 10 position: 3600 -160 none
+ground_22: color: 200 200 200 255 size: 80 10 position: 3800 -160 none
+ground_23: color: 200 200 200 255 size: 800 300 position: 3800 0 none
+ground_24: color: 200 200 200 255 size: 100 50 position: 4200 -50 none
+ground_25: color: 200 200 200 255 size: 100 500 position: 4600 -60 none
+ground_26: color: 200 200 200 255 size: 100 500 position: 4700 -160 none
+ground_27: color: 200 200 200 255 size: 100 600 position: 4800 -260 none
+ground_28: color: 200 200 200 255 size: 400 200 position: 4200 -600 none
+ground_29: color: 200 200 200 255 size: 200 500 position: 5100 -260 none
+ground_30: color: 200 200 200 255 size: 100 500 position: 5300 -300 none
+ground_31: color: 200 200 200 255 size: 100 600 position: 5400 -400 none
+ground_32: color: 200 200 200 255 size: 200 600 position: 5500 -500 none
+ground_33: color: 200 200 200 255 size: 300 600 position: 5600 -600 none
+ground_34: color: 200 200 200 255 size: 500 380 position: 4600 -800 none
+ground_35: color: 200 200 200 255 size: 100 400 position: 5100 -900 none
+ground_36: color: 200 200 200 255 size: 100 300 position: 5200 -900 none
+ground_37: color: 200 200 200 255 size: 300 300 position: 5300 -1000 none
+ground_38: color: 200 200 200 255 size: 200 400 position: 4900 -100 none
+ground_39: color: 200 200 200 255 size: 100 200 position: 5200 -900 none
+ground_40: color: 200 000 000 000 size: 10 2000 position: -110 -2000 none
+ground_41: color: 255 255 255 255 size: 200 200 position: -200 -400 none
+ground_42: color: 255 255 255 000 size: 30 30 position: 1170 -595 none
+ground_43: color: 255 255 255 000 size: 64 30 position: 1839 -170 none
+ground_44: color: 255 255 255 000 size: 30 30 position: 1854 -185 none
+ground_45: color: 255 255 255 000 size: 30 60 position: 5370 -332 none
+ground_46: color: 255 255 255 255 size: 2000 50 position: 940 -800 none
+ground_47: color: 255 255 255 255 size: 2000 100 position: 1000 -900 none
+ground_48: color: 255 255 255 255 size: 2000 100 position: 1090 -980 none
+ground_49: color: 255 255 255 255 size: 1000 100 position: 1255 -1058 none 
+ground_50: color: 255 255 255 255 size: 3000 120 position: 1370 -1178 none 
+ground_51: color: 255 255 255 255 size: 1000 130 position: 1420 -1300 none 
+ground_52: color: 255 255 255 255 size: 1000 200 position: -140 -533 none 
+ground_53: color: 255 255 255 255 size: 2800 200 position: 1588 -1375 none 
+ground_54: color: 255 255 255 255 size: 1000 200 position: 1688 -1425 none 
+ground_55: color: 255 255 255 255 size: 2500 200 position: 1800 -1550 none 
+ground_56: color: 255 255 255 255 size: 1000 200 position: 2000 -1600 none 
+ground_57: color: 255 255 255 255 size: 1500 200 position: 2300 -1690 none 
+ground_58: color: 255 255 255 255 size: 1300 200 position: 2500 -1800 none 
+ground_59: color: 255 255 255 255 size: 1200 200 position: 2600 -1900 none 
+ground_60: color: 255 255 255 255 size: 900 200 position: 2800 -2050 none 
+ground_61: color: 255 255 255 255 size: 400 200 position: 2900 -2100 none 
+ground_62: color: 255 255 255 255 size: 400 200 position: 3800 -1700 none 
+ground_63: color: 255 255 255 255 size: 400 500 position: 4300 -1400 none 
+ground_64: color: 255 255 255 255 size: 400 500 position: 4700 -1300 none 
+ground_65: color: 255 255 255 255 size: 400 300 position: 5100 -1125 none 
+ground_66: color: 255 255 255 255 size: 1100 500 position: 5795 -625 none 
+ground_67: color: 255 255 255 255 size: 100 200 position: 5500 -1000 none 
+ground_68: color: 200 000 000 000 size: 10 2000 position: 6400 -2000 none
+ground_69: color: 255 255 255 255 size: 100 200 position: 3800 -1780 none
+ground_70: color: 255 255 255 255 size: 100 200 position: 5100 -1200 none
+ground_71: color: 255 255 255 255 size: 100 200 position: 5600 -930 none
+ground_72: color: 255 255 255 255 size: 100 100 position: 5700 -850 none
+ground_73: color: 255 255 255 255 size: 60 20 position: 5800 -770 none
+ground_74: color: 255 255 255 000 size: 30 20 position: 5850 -644 none
+
+objects: 125
+object_0: color: 255 255 255 path: Resources/Trees.png position: -95 -600
+object_1: color: 255 255 255 path: Resources/SignNoLeft.png position: -90 -600
+object_2: color: 255 255 255 path: Resources/Trees.png position: 140 -600
+object_3: color: 255 255 255 path: Resources/WoodenHouse.png position: 120 -600
+object_4: color: 255 255 255 path: Resources/Trees.png position: 400 -580
+object_5: color: 255 255 255 path: Resources/Tree.png position: 650 -580
+object_6: color: 255 255 255 path: Resources/Tree.png position: 800 -580
+object_7: color: 255 255 255 path: Resources/Rail.png position: 930 -575
+object_8: color: 255 255 255 path: Resources/Rail.png position: 1120 -575
+object_9: color: 255 255 255 path: Resources/RailCar.png position: 1170 -579
+object_10: color: 255 255 255 path: Resources/Rail.png position: 1310 -575
+object_11: color: 255 255 255 path: Resources/WoodenHouse.png position: 1610 -570
+object_12: color: 255 255 255 path: Resources/Tree.png position: 1720 -570
+object_13: color: 255 255 255 path: Resources/SignDown.png position: 1885 -570
+object_14: color: 255 255 255 path: Resources/Tree.png position: 1920 -570
+object_15: color: 255 255 255 path: Resources/Snowlantern.png position: 1600 -570
+object_16: color: 255 255 255 path: Resources/RailCar.png position: 1840 -154
+object_17: color: 255 255 255 path: Resources/RailCar.png position: 1873 -154
+object_18: color: 255 255 255 path: Resources/RailCar.png position: 1855 -170
+object_19: color: 255 255 255 path: Resources/Rail.png position: 1830 -150
+object_20: color: 255 255 255 path: Resources/Rail.png position: 2235 -90
+object_21: color: 255 255 255 path: Resources/Rail.png position: 2424 -90
+object_22: color: 255 255 255 path: Resources/RailCarGold.png position: 2445 -94
+object_23: color: 255 255 255 path: Resources/Rail.png position: 2614 -90
+object_24: color: 255 255 255 path: Resources/Lamp-Post.png position: 2100 -150
+object_25: color: 255 255 255 path: Resources/Lamp-Post.png position: 2620 -90
+object_26: color: 255 255 255 path: Resources/SnowPile.png position: 2820 -90
+object_27: color: 255 255 255 path: Resources/Snowlantern.png position: 2874 -90
+object_28: color: 255 255 255 path: Resources/WoodenHouse.png position: 2905 -60
+object_29: color: 255 255 255 path: Resources/WoodenHouse.png position: 3050 -60
+object_30: color: 255 255 255 path: Resources/SignNoRight.png position: 3765 -60
+object_31: color: 255 255 255 path: Resources/Lamp-Post.png position: 3424 -160
+object_32: color: 255 255 255 path: Resources/Rail.png position: 3170 -60
+object_33: color: 255 255 255 path: Resources/Rail.png position: 3361 -60
+object_34: color: 255 255 255 path: Resources/Rail.png position: 3552 -60
+object_35: color: 255 255 255 path: Resources/Lamp-Post.png position: 3830 -160
+object_36: color: 255 255 255 path: Resources/RailCar.png position: 3200 -64
+object_37: color: 255 255 255 path: Resources/RailCarGold.png position: 3468 -64
+object_38: color: 255 255 255 path: Resources/RailCar.png position: 3500 -64
+object_39: color: 255 255 255 path: Resources/Rail.png position: 4302 0
+object_40: color: 255 255 255 path: Resources/Rail.png position: 4398 0
+object_41: color: 255 255 255 path: Resources/RailCar.png position: 4400 -4
+object_42: color: 255 255 255 path: Resources/Lamp-Post.png position: 4190 -50
+object_43: color: 255 255 255 path: Resources/SmallTree.png position: 4230 -50
+object_44: color: 255 255 255 path: Resources/Tree.png position: 4600 -60
+object_45: color: 255 255 255 path: Resources/Tree.png position: 4630 -60
+object_46: color: 255 255 255 path: Resources/Tree.png position: 4725 -160
+object_47: color: 255 255 255 path: Resources/Lamp-Post.png position: 4850 -260
+object_48: color: 180 180 180 path: Resources/SmallTree.png position: 4416 -20
+object_49: color: 255 255 255 path: Resources/Lamp-Post.png position: 5430 -400
+object_50: color: 255 255 255 path: Resources/RailCar.png position: 5370 -300
+object_51: color: 255 255 255 path: Resources/RailCar.png position: 5370 -316
+object_52: color: 255 255 255 path: Resources/Rail.png position: 5100 -260
+object_53: color: 255 255 255 path: Resources/Tree.png position: 930 -800
+object_54: color: 255 255 255 path: Resources/Lamp-Post.png position: 1012 -900
+object_55: color: 255 255 255 path: Resources/Lamp-Post.png position: 1371 -1180
+object_56: color: 255 255 255 path: Resources/Tree.png position: 1080 -980
+object_57: color: 255 255 255 path: Resources/Tree.png position: 1150 -980
+object_58: color: 255 255 255 path: Resources/Tree.png position: 1180 -980
+object_59: color: 255 255 255 path: Resources/Tree.png position: 1300 -1060
+object_60: color: 255 255 255 path: Resources/Tree.png position: 1520 -1300
+object_61: color: 255 255 255 path: Resources/WoodenHouse.png position: 1571 -1375
+object_62: color: 255 255 255 path: Resources/Tree.png position: 1680 -1425
+object_63: color: 255 255 255 path: Resources/Tree.png position: 1700 -1425
+object_64: color: 255 255 255 path: Resources/Tree.png position: 1740 -1425
+object_65: color: 255 255 255 path: Resources/Tree.png position: 1790 -1550
+object_66: color: 255 255 255 path: Resources/Tree.png position: 1810 -1550
+object_67: color: 255 255 255 path: Resources/Tree.png position: 1840 -1550
+object_68: color: 255 255 255 path: Resources/Tree.png position: 1870 -1550
+object_69: color: 255 255 255 path: Resources/Tree.png position: 1910 -1550
+object_70: color: 255 255 255 path: Resources/Tree.png position: 1940 -1550
+object_71: color: 255 255 255 path: Resources/Trees.png position: 1990 -1600
+object_72: color: 255 255 255 path: Resources/Tree.png position: 2100 -1600
+object_73: color: 255 255 255 path: Resources/WoodenHouse.png position: 1420 -1300
+object_74: color: 255 255 255 path: Resources/Tree.png position: 2235 -1600
+object_75: color: 255 255 255 path: Resources/Tree.png position: 2290 -1690
+object_76: color: 255 255 255 path: Resources/Tree.png position: 2315 -1690
+object_77: color: 255 255 255 path: Resources/Tree.png position: 2360 -1690
+object_78: color: 255 255 255 path: Resources/Tree.png position: 2390 -1690
+object_79: color: 255 255 255 path: Resources/Tree.png position: 2439 -1690
+object_80: color: 255 255 255 path: Resources/Tree.png position: 2490 -1800
+object_81: color: 255 255 255 path: Resources/Tree.png position: 2530 -1800
+object_82: color: 255 255 255 path: Resources/Tree.png position: 2580 -1900
+object_83: color: 255 255 255 path: Resources/Tree.png position: 2640 -1900
+object_84: color: 255 255 255 path: Resources/Tree.png position: 2670 -1900
+object_85: color: 255 255 255 path: Resources/Tree.png position: 2730 -1900
+object_86: color: 255 255 255 path: Resources/Tree.png position: 2790 -2050
+object_87: color: 255 255 255 path: Resources/Tree.png position: 2820 -2050
+object_88: color: 255 255 255 path: Resources/Tree.png position: 2840 -2050
+object_89: color: 255 255 255 path: Resources/Tree.png position: 2900 -2100
+object_90: color: 255 255 255 path: Resources/Trees.png position: 2950 -2100
+object_91: color: 255 255 255 path: Resources/WoodenHouse.png position: 3000 -2100
+object_92: color: 255 255 255 path: Resources/Tree.png position: 3200 -2100
+object_93: color: 255 255 255 path: Resources/Lamp-Post.png position: 3261 -2100
+object_94: color: 255 255 255 path: Resources/Trees.png position: 3300 -2050
+object_95: color: 255 255 255 path: Resources/Trees.png position: 3450 -2050
+object_96: color: 255 255 255 path: Resources/WoodenHouse.png position: 3370 -2050
+object_97: color: 255 255 255 path: Resources/WoodenHouse.png position: 3510 -2050
+object_98: color: 255 255 255 path: Resources/Tree.png position: 3700 -1900
+object_99: color: 255 255 255 path: Resources/Tree.png position: 3750 -1900
+object_100: color: 255 255 255 path: Resources/Tree.png position: 3800 -1780
+object_101: color: 255 255 255 path: Resources/Tree.png position: 3850 -1780
+object_102: color: 255 255 255 path: Resources/Trees.png position: 3900 -1700
+object_103: color: 255 255 255 path: Resources/SnowPile.png position: 4130 -1700
+object_104: color: 255 255 255 path: Resources/Lantern.png position: 4145 -1742
+object_105: color: 255 255 255 path: Resources/Tree.png position: 4200 -1550
+object_106: color: 255 255 255 path: Resources/Lamp-Post.png position: 4250 -1550
+object_107: color: 255 255 255 path: Resources/Trees.png position: 4300 -1400
+object_108: color: 255 255 255 path: Resources/Trees.png position: 4450 -1400
+object_109: color: 255 255 255 path: Resources/Trees.png position: 4700 -1300
+object_110: color: 255 255 255 path: Resources/Trees.png position: 4850 -1300
+object_111: color: 255 255 255 path: Resources/Tree.png position: 5100 -1200
+object_112: color: 255 255 255 path: Resources/Trees.png position: 5200 -1125
+object_113: color: 255 255 255 path: Resources/Lamp-Post.png position: 5150 -1200
+object_114: color: 255 255 255 path: Resources/Tree.png position: 5510 -1000
+object_115: color: 255 255 255 path: Resources/Tree.png position: 5600 -930
+object_116: color: 255 255 255 path: Resources/Tree.png position: 5640 -930
+object_117: color: 255 255 255 path: Resources/Tree.png position: 5700 -850
+object_118: color: 255 255 255 path: Resources/Tree.png position: 5800 -770
+object_119: color: 255 255 255 path: Resources/Trees.png position: 6600 -625
+object_120: color: 255 255 255 path: Resources/Trees.png position: 6000 -625
+object_121: color: 255 255 255 path: Resources/Trees.png position: 6200 -625
+object_122: color: 255 255 255 path: Resources/Trees.png position: 6400 -625
+object_123: color: 255 255 255 path: Resources/Rail.png position: 5800 -625
+object_124: color: 255 255 255 path: Resources/RailCarGold.png position: 5850 -628
+
+items: 77
+item_0: color: 255 255 255 path: Resources/Sleigh.png position: 6235 -625 # goal level: 5
+item_1: color: 255 255 255 path: Resources/Spikes1.png position: 1520 -575 # death
+item_2: color: 255 255 255 path: Resources/Spikes1.png position: 1800 -150 # death
+item_3: color: 255 255 255 path: Resources/RoofSpikes1.png position: 1900 -242 # death
+item_4: color: 255 255 255 path: Resources/RoofSpikes1.png position: 938 -672 # death
+item_5: color: 255 255 255 path: Resources/RoofSpikes1.png position: 1135 -672 # death
+item_6: color: 255 255 255 path: Resources/RoofSpikes1.png position: 1977 -672 # death
+item_7: color: 255 255 255 path: Resources/RoofSpikes1.png position: 1810 -672 # death
+item_8: color: 255 255 255 path: Resources/RoofSpikes1.png position: 3350 -272 # death
+item_9: color: 255 255 255 path: Resources/Spikes1.png position: 2200 -90 # death
+item_10: color: 255 255 255 path: Resources/Spikes1.png position: 2180 -150 # death
+item_11: color: 255 255 255 path: Resources/Spikes1.png position: 2900 -60 # death
+item_12: color: 255 255 255 path: Resources/RoofSpikes1.png position: 3920 -272 # death
+item_13: color: 255 255 255 path: Resources/Spikes3.png position: 3800 0 # death
+item_14: color: 255 255 255 path: Resources/Spikes3.png position: 3850 0 # death
+item_15: color: 255 255 255 path: Resources/Spikes3.png position: 3900 0 # death
+item_16: color: 255 255 255 path: Resources/Spikes3.png position: 3950 0 # death
+item_17: color: 255 255 255 path: Resources/Spikes3.png position: 4000 0 # death
+item_18: color: 255 255 255 path: Resources/Spikes3.png position: 4050 0 # death
+item_19: color: 255 255 255 path: Resources/Spikes3.png position: 4100 0 # death
+item_20: color: 255 255 255 path: Resources/Spikes3.png position: 4150 0 # death
+item_21: color: 255 255 255 path: Resources/Spikes3.png position: 4900 -100 # death
+item_22: color: 255 255 255 path: Resources/Spikes3.png position: 4950 -100 # death
+item_23: color: 255 255 255 path: Resources/Spikes3.png position: 5000 -100 # death
+item_24: color: 255 255 255 path: Resources/Spikes3.png position: 5050 -100 # death
+item_25: color: 255 255 255 path: Resources/RoofSpikes1.png position: 5400 -672 # death
+item_26: color: 255 255 255 path: Resources/RoofSpikes1.png position: 5440 -672 # death
+item_27: color: 255 255 255 path: Resources/Spikes1.png position: 5583 -500 # death
+item_28: color: 255 255 255 path: Resources/Spikes3.png position: 1540 -1300 # death
+item_29: color: 255 255 255 path: Resources/Spikes3.png position: 2210 -1600 # death
+item_30: color: 255 255 255 path: Resources/Present2.png position: -5 -600 # score
+item_31: color: 255 255 255 path: Resources/Present3.png position: 310 -600 # score
+item_32: color: 255 255 255 path: Resources/Present4.png position: 610 -580 # score
+item_33: color: 255 255 255 path: Resources/Present4.png position: 1172 -595 # score
+item_34: color: 255 255 255 path: Resources/Present3.png position: 1548 -575 # score
+item_35: color: 255 255 255 path: Resources/Present2.png position: 1838 -512 # score
+item_36: color: 255 255 255 path: Resources/Present4.png position: 1871 -412 # score
+item_37: color: 255 255 255 path: Resources/Present1.png position: 1820 -312 # score
+item_38: color: 255 255 255 path: Resources/Present1.png position: 1838 -212 # score
+item_39: color: 255 255 255 path: Resources/Present4.png position: 2325 -100 # score
+item_40: color: 255 255 255 path: Resources/Present4.png position: 2843 -90 # score
+item_41: color: 255 255 255 path: Resources/Present1.png position: 3534 -64 # score
+item_42: color: 255 255 255 path: Resources/Present2.png position: 3660 -160 # score
+item_43: color: 255 255 255 path: Resources/Present3.png position: 4060 -230 # score
+item_44: color: 255 255 255 path: Resources/Present1.png position: 4563 -4 # score
+item_45: color: 255 255 255 path: Resources/Present4.png position: 4687 -180 # score
+item_46: color: 255 255 255 path: Resources/Present1.png position: 4980 -300 # score
+item_47: color: 255 255 255 path: Resources/Present4.png position: 5330 -300 # score
+item_48: color: 255 255 255 path: Resources/Present1.png position: 5520 -500 # score
+item_49: color: 255 255 255 path: Resources/Present2.png position: 5760 -600 # score
+item_50: color: 255 255 255 path: Resources/Present2.png position: 920 -750 # score
+item_51: color: 255 255 255 path: Resources/Present1.png position: 1030 -900 # score
+item_52: color: 255 255 255 path: Resources/Present4.png position: 1375 -1180 # score
+item_53: color: 255 255 255 path: Resources/Present1.png position: 1920 -1550 # score
+item_54: color: 255 255 255 path: Resources/Present2.png position: 2280 -1600 # score
+item_55: color: 255 255 255 path: Resources/Present3.png position: 1600 -1375 # score
+item_56: color: 255 255 255 path: Resources/Present2.png position: 2500 -1800 # score
+item_57: color: 255 255 255 path: Resources/Present4.png position: 2700 -1900 # score
+item_58: color: 255 255 255 path: Resources/Present3.png position: 3030 -2100 # score
+item_59: color: 255 255 255 path: Resources/Present3.png position: 3260 -2100 # score
+item_60: color: 255 255 255 path: Resources/Present1.png position: 3500 -2050 # score
+item_61: color: 255 255 255 path: Resources/Present2.png position: 3680 -2050 # score
+item_62: color: 255 255 255 path: Resources/Present3.png position: 3850 -1780 # score
+item_63: color: 255 255 255 path: Resources/Present4.png position: 4161 -1743 # score
+item_64: color: 255 255 255 path: Resources/Spikes3.png position: 3900 -1700 # death
+item_65: color: 255 255 255 path: Resources/Spikes2.png position: 4520 -1400 # death
+item_66: color: 255 255 255 path: Resources/Spikes2.png position: 3175 -2100 # death
+item_67: color: 255 255 255 path: Resources/Present1.png position: 4410 -1400 # score
+item_68: color: 255 255 255 path: Resources/Spikes2.png position: 4980 -1300 # death
+item_69: color: 255 255 255 path: Resources/Spikes3.png position: 5400 -1125 # death
+item_70: color: 255 255 255 path: Resources/Present2.png position: 5460 -1125 # score
+item_71: color: 255 255 255 path: Resources/Present3.png position: 5580 -1000 # score
+item_72: color: 255 255 255 path: Resources/Present1.png position: 5760 -850 # score
+item_73: color: 255 255 255 path: Resources/Present4.png position: 5800 -772 # score
+item_74: color: 255 255 255 path: Resources/Present1.png position: 6180 -625 # score
+item_75: color: 255 255 255 path: Resources/Spikes1.png position: 2000 -1600 # death
+item_76: color: 255 255 255 path: Resources/Spikes1.png position: 2770 -1900 # death
+
+entities: 5
+entity_0: color: 255 255 255 path: Resources/EnemyMiner.png animated: 25 50 position: 2225 -90 move: 2865 -90 100 # death
+entity_1: color: 255 255 255 path: Resources/EnemyMiner.png animated: 25 50 position: 3540 -60 move: 3760 -60 100 # death
+entity_2: color: 255 255 255 path: Resources/EnemyMiner.png animated: 25 50 position: 3105 -60 move: 3460 -60 100 # death
+entity_3: color: 255 255 255 path: Resources/Enemy.png animated: 25 50 position: 3300 -2050 move: 3680 -2050 100 # death
+entity_4: color: 255 255 255 path: Resources/Enemy.png animated: 25 100 position: 2900 -2100 move: 3165 -2100 50 # death

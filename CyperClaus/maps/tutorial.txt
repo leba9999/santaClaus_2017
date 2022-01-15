@@ -1,0 +1,53 @@
+player: Resources/SantaClaus.png position: 400 575
+music: default
+scoresound: Resources/Papper.ogg
+scoresound2: Resources/Plik.ogg
+background: color: 10 10 25
+
+grounds: 6
+ground_0: color: 255 255 255 255 size: 1000 400 position: 0 580 none
+ground_1: color: 255 255 255 255 size: 1000 400 position: 1100 580 none
+ground_2: color: 255 000 000 000 size: 10 1000 position: 390 0 none
+ground_3: color: 255 255 255 255 size: 100 20 position: 400 370 none
+ground_4: color: 255 255 255 255 size: 16 3 position: 510 545 none
+ground_5: color: 255 000 000 000 size: 10 1000 position: 1460 0  none 
+
+objects: 17
+object_0: color: 255 255 255 path: Resources/Trees.png position: 50 580
+object_1: color: 255 255 255 path: Resources/Trees.png position: 300 580
+object_2: color: 255 255 255 path: Resources/Trees.png position: 500 580
+object_3: color: 255 255 255 path: Resources/Trees.png position: 700 580
+object_4: color: 255 255 255 path: Resources/Trees.png position: -30 580
+object_5: color: 255 255 255 path: Resources/Tree.png position: 915 580
+object_6: color: 255 255 255 path: Resources/Tree.png position: 945 580
+object_7: color: 100 100 100 path: Resources/Trees.png position: 1230 580 
+object_8: color: 100 100 100 path: Resources/Trees.png position: 1105 580 
+object_9: color: 255 255 255 path: Resources/WoodenHouse.png position: 1250 580
+object_10: color: 255 255 255 path: Resources/Tree.png position: 1220 580 
+object_11: color: 255 255 255 path: Resources/Sign.png position: 500 580 
+object_12: color: 255 255 255 path: Resources/Tree.png position: 1130 580 
+object_13: color: 255 255 255 path: Resources/Tree.png position: 1090 580 
+object_14: color: 255 255 255 path: Resources/Tree.png position: 1170 580 
+object_15: color: 255 255 255 path: Resources/Trees.png position: 1410 580 
+object_16: color: 255 255 255 path: Resources/Trees.png position: 1630 580
+
+items: 15
+item_0: color: 255 255 255 path: Resources/Sleigh.png position: 1350 580 # goal level: 2
+item_1: color: 255 255 255 path: Resources/present1.png position: 1150 580 # score
+item_2: color: 255 255 255 path: Resources/present1.png position: 460 580 # score 
+item_3: color: 255 255 255 path: Resources/present1.png position: 565 580 # score
+item_4: color: 255 255 255 path: Resources/present1.png position: 665 580 # score
+item_5: color: 255 255 255 path: Resources/present1.png position: 460 370 # score
+item_6: color: 255 255 255 path: Resources/present1.png position: 400 370 # score
+item_7: color: 255 255 255 path: Resources/present1.png position: 430 370 # score
+item_8: color: 255 255 255 path: Resources/present1.png position: 750 580 # score
+item_9: color: 255 255 255 path: Resources/present1.png position: 850 580 # score
+item_10: color: 255 255 255 path: Resources/present1.png position: 950 580 # score
+item_11: color: 255 255 255 path: Resources/present1.png position: 1110 580 # score
+item_12: color: 255 255 255 path: Resources/present1.png position: 1035 480 # score
+item_13: color: 255 255 255 path: Resources/present1.png position: 1190 580 # score
+item_14: color: 255 255 255 path: Resources/present1.png position: 1260 580 # score
+
+entities: 2
+entity_0: color: 255 255 255 path: Resources/move.png animated: 50 80 position: 500 580 move: 700 580 70 # none
+entity_1: color: 255 255 255 path: Resources/jump.png animated: 50 100 position: 960 580 move: 1130 520 50 # none

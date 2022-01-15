@@ -1,0 +1,101 @@
+﻿  main.cpp
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(318): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(319): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(320): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(321): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(322): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(372): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(406): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(406): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(413): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(413): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(424): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(424): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(432): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(432): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(786): warning C4018: '<=': signed/unsigned mismatch
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(863): warning C4018: '<': signed/unsigned mismatch
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(889): warning C4018: '<': signed/unsigned mismatch
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(899): warning C4018: '<': signed/unsigned mismatch
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(1020): warning C4018: '<': signed/unsigned mismatch
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(1032): warning C4018: '<': signed/unsigned mismatch
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(1043): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(1044): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(1045): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(1046): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(1068): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(1073): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(1076): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(1084): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(1085): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(1086): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(1087): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(1088): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(1094): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(1097): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(1098): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(1099): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(1100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(1109): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\leba\documents\visual studio 2017\projects\cyperclaus\cyperclaus\main.cpp(1117): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  CyperClaus.vcxproj -> C:\Users\Leba\Documents\Visual Studio 2017\Projects\CyperClaus\Debug\CyperClaus.exe

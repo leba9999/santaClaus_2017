@@ -1,0 +1,3 @@
+Only specific commands are allowed!
+path: maps\mainmenu.txt
+title: Level:MainMenu

@@ -37,8 +37,8 @@ Pura zip ja varmista että koneessa on Microsoft Visual C++ 2015-2019 Redistribu
 
 
 ## Tekijät:
-Ohjelmointi, grafiikka ja suunnitelu
+Ohjelmointi, grafiikka ja suunnittelu
 - [Leevi Koskinen](https://github.com/leba9999)
 
-Grafiikka ja taso suunnitelu/kehitys
+Grafiikka ja taso suunnittelu/kehitys
 - Mikael Ronkainen
